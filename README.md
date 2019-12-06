@@ -1,5 +1,4 @@
 # 天池-安泰杯跨境电商智能算法大赛 冠军方案分享
-![](media/15736280209153/15755960016050.jpg)
 [天池-跨境电商智能算法大赛](https://tianchi.aliyun.com/competition/entrance/231718/introduction)
 
 ## 赛题
@@ -114,4 +113,6 @@ Rcall Rate：
 
 取胜关键 = 充分理解业务 + 完备的特征工程 + 合理建模方法 + 细致结果优化 + 坚持就是胜利
 
+> 本赛题相关资料目前已上传[GitHub](https://github.com/RainFung/Tianchi-AntaiCup-International-E-commerce-Artificial-Intelligence-Challenge)，代码待整理完毕后也将开源共享
 > Have a good time in Data Competition.
+
