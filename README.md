@@ -1,6 +1,8 @@
 # 天池-安泰杯跨境电商智能算法大赛 冠军方案分享
 [天池-跨境电商智能算法大赛](https://tianchi.aliyun.com/competition/entrance/231718/introduction)
 
+代码相关问题，请到Issues区进行留言
+
 ## 赛题
 AliExpress是阿里巴巴海外购物网站，海外用户可以在AliExpress挑选购买自己心意的商品。AliExpress积累了大量的用户行为数据，本赛题旨在通过海量数据挖掘用户下一个可能交互商品，选手们可以提交预测的TOP30商品列表，排序越靠前命中得分越高。
 
